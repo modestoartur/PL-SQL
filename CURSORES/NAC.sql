@@ -14,11 +14,7 @@
 
 -- ALTER TABLE LOC_ITEM_LOCACAO_STG
 --        ADD CONSTRAINT PK_LOC_ITEM_LOCACAO2 PRIMARY KEY (NR_PEDIDO, NR_ITEM);
-
-
-
 -- Utilizando o recurso de cursores explícitos, escreva um bloco em PL/SQL que realize a transferência de todos os dados e popule a coluna DT_CARGA com a data da execução  do programa.
-
 
 declare
 
